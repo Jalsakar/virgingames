@@ -1,0 +1,18 @@
+2024-02-01 11:02:68 INFO  HomePage :37 - verifying homepage url.
+2024-02-01 11:02:71 INFO  HomePage :42 - Scroll Down to Footer
+2024-02-01 11:02:97 INFO  HomePage :47 - Verify Modern Slavery Statement Text on HomePage[[ChromeDriver: chrome on windows (8dc48192a3c323b0eb983bee8a72751f)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-01 11:02:162 INFO  HomePage :52 - Click on Modern Slavery Statement[[ChromeDriver: chrome on windows (8dc48192a3c323b0eb983bee8a72751f)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-01 11:02:188 INFO  HomePage :57 - Verifying Navigated to Modern Slavery Policy Page
+2024-02-01 11:02:592 INFO  ModernSlaveryPolicyPage :23 - Verify Header Text[[ChromeDriver: chrome on windows (8dc48192a3c323b0eb983bee8a72751f)] -> css selector: .jss32]
+2024-02-01 11:02:658 INFO  HomePage :37 - verifying homepage url.
+2024-02-01 11:02:661 INFO  HomePage :42 - Scroll Down to Footer
+2024-02-01 11:02:685 INFO  HomePage :47 - Verify Modern Slavery Statement Text on HomePage[[ChromeDriver: chrome on windows (18e2c8ae63c177226633cd3b29c05e39)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-01 11:02:752 INFO  HomePage :52 - Click on Modern Slavery Statement[[ChromeDriver: chrome on windows (18e2c8ae63c177226633cd3b29c05e39)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-01 11:02:714 INFO  HomePage :57 - Verifying Navigated to Modern Slavery Policy Page
+2024-02-01 11:02:113 INFO  ModernSlaveryPolicyPage :23 - Verify Header Text[[ChromeDriver: chrome on windows (18e2c8ae63c177226633cd3b29c05e39)] -> css selector: .jss32]
+2024-02-02 11:02:220 INFO  HomePage :37 - verifying homepage url.
+2024-02-02 11:02:227 INFO  HomePage :42 - Scroll Down to Footer
+2024-02-02 11:02:356 INFO  HomePage :47 - Verify Modern Slavery Statement Text on HomePage[[ChromeDriver: chrome on windows (4f55e99261fc1bb5ced8710253112aa0)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-02 11:02:434 INFO  HomePage :52 - Click on Modern Slavery Statement[[ChromeDriver: chrome on windows (4f55e99261fc1bb5ced8710253112aa0)] -> xpath: //a[normalize-space()='Modern Slavery Statement']]
+2024-02-02 11:02:593 INFO  HomePage :57 - Verifying Navigated to Modern Slavery Policy Page
+2024-02-02 11:02:192 INFO  ModernSlaveryPolicyPage :23 - Verify Header Text[[ChromeDriver: chrome on windows (4f55e99261fc1bb5ced8710253112aa0)] -> css selector: .jss32]
